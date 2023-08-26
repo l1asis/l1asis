@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @l1asis 🇺🇦
+- 👀 I'm interested in cybersecurity, game development, space exploration, life in general :3
+- 🌱 I’m currently learning C & ASM x86-64
+- 💞️ I’m looking to collaborate on ... Nothing at the moment :)
+- 📫 How to reach me ... OSINT (:
