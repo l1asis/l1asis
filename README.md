@@ -1,8 +1,6 @@
 ### Hi there 🤠👋 I'm @l1asis!
-- 👀 I'm interested in **command line tools**, **automation**, **game development** and **life in general**
+- 👀 I'm interested in **command line tools**, **automation** and **life in general**
 - 🌱 I'm currently learning **C#** and **.NET**
-- 💞️ I'm looking to collaborate on ... **your interesting projects** 💬
-- 📫 How to reach me ... **right here, on GitHub** 😉
 
 ### Projects:
 - 🎨 [**pyansistring**](https://github.com/l1asis/pyansistring), a Python library for styling strings with colors and other features.
@@ -18,7 +16,6 @@
   - **RPGs** (In the past also **MMORPGs** like Lineage 2)
   - **Puzzle**
   - **Adventure**
-- ⚡ Nevertheless, I would still like to be involved in game development in some way.
 - 🎧 I love **OST** from such games as:
   - **Machinarium**
   - **Sonic Adventure 1 & 2**
