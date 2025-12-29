@@ -23,4 +23,7 @@
   - **Undertale**
   - ... and more!
 - 🎵 But I also enjoy listening to **various music genres**, including different **flavors of rock** (christian, alternative, hard, rap), **electronic**, **trance** and others.
+  - My favorite bands/artists include **Linkin Park**, **Thousand Foot Krutch**, **Pillar** and more.
+  - You can check out my favorite tracks in [My Apple Music Playlist](https://music.apple.com/us/playlist/my-favourite-songs/pl.u-e98lGdKIaJ6W1o1)
+  - I am also on Spotify. There are some of my former favorites: [Spotify profile](https://open.spotify.com/user/31ifqd3xg24kk7ecih773wos2yjy?si=07cd46c31b2a495e).
 - 🛣️ Some other interests of mine include **reading books**, **exploring nature and technology**, **learning languages** and more.
