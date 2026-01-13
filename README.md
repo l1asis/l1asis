@@ -1,29 +1,28 @@
 ### Hi there 🤠👋 I'm @l1asis!
-- 👀 I'm interested in **command line tools**, **automation** and **life in general**
-- 🌱 I'm currently learning **C#** and **.NET**
+- 👀 I'm interested in **command line tools**, **automation**, and **open source**.
+- 🌱 I'm currently learning **C#** and **.NET**.
 
-### Projects:
-- 🎨 [**pyansistring**](https://github.com/l1asis/pyansistring), a Python library for styling strings with colors and other features.
-- 🔑 [**rsa-educational-messenger**](https://github.com/l1asis/rsa-educational-messenger), a messaging application showing RSA in details for educational purposes.
-- ... *some more projects I didn't upload or modify to be public yet*
+### 🛠️ Projects
+- 🎨 [**pyansistring**](https://github.com/l1asis/pyansistring) – A Python library for styling terminal strings with colors and formatting.
+- 🌇 [**winspot**](https://github.com/l1asis/winspot) – A CLI tool for extracting Windows Spotlight images.
+- 🔑 [**rsa-educational-messenger**](https://github.com/l1asis/rsa-educational-messenger)– A messaging app demonstrating RSA encryption mechanics for educational purposes.
+- 🚧 ... and working on porting more projects to public!
 
-### Progress Badges:
-![Codewars Badge](https://www.codewars.com/users/l1asis/badges/large)
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/l1asis.png)
+### 🏆 Progress Badges
+<p align="left">
+  <a href="https://www.codewars.com/users/l1asis">
+    <img src="https://www.codewars.com/users/l1asis/badges/large" alt="Codewars Badge" />
+  </a>
+  <a href="https://tryhackme.com/p/l1asis">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/l1asis.png" alt="TryHackMe Badge" />
+  </a>
+</p>
 
-### A bit more about me:
-- 🎮 I used to play video games a lot! I don't anymore because I lost interest. Some of my favorite genres were:
-  - **RPGs** (In the past also **MMORPGs** like Lineage 2)
-  - **Puzzle**
-  - **Adventure**
-- 🎧 I love **OST** from such games as:
-  - **Machinarium**
-  - **Sonic Adventure 1 & 2**
-  - **Minecraft**
-  - **Undertale**
-  - ... and more!
-- 🎵 But I also enjoy listening to **various music genres**, including different **flavors of rock** (christian, alternative, hard, rap), **electronic**, **trance** and others.
-  - My favorite bands/artists include **Linkin Park**, **Thousand Foot Krutch**, **Pillar** and more.
-  - You can check out my favorite tracks in [My Apple Music Playlist](https://music.apple.com/us/playlist/my-favourite-songs/pl.u-e98lGdKIaJ6W1o1)
-  - I am also on Spotify. There are some of my former favorites: [Spotify profile](https://open.spotify.com/user/31ifqd3xg24kk7ecih773wos2yjy?si=07cd46c31b2a495e).
-- 🛣️ Some other interests of mine include **reading books**, **exploring nature and technology**, **learning languages** and more.
+### ⚡ A bit more about me
+- 🎮 I'm a **retired gamer**. While I don't play much anymore, my favorite genres were **Adventure**, **Racing**, **RPGs**, and **Puzzle**.
+- 🎧 I still love listening to **OSTs** from games like **Machinarium**, **Sonic Adventure 1 & 2**, **Minecraft**, **Undertale**, and more!
+- 🎸 My playlist is diverse! I enjoy **various music genres**, including different **styles of rock** (Christian, alternative, hard, rap), **electronic**, **trance**, and others.
+  - My favorite bands include **Linkin Park**, **Thousand Foot Krutch**, **Pillar**, and more.
+  - 🍏 You can check out my current jams in [My Apple Music Playlist](https://music.apple.com/us/playlist/my-favourite-songs/pl.u-e98lGdKIaJ6W1o1)
+  - 🟢 I'm also on Spotify! You can find my older favorites on my [Spotify profile](https://open.spotify.com/user/31ifqd3xg24kk7ecih773wos2yjy?si=07cd46c31b2a495e).
+- ⚡ Outside of tech, I enjoy **reading books**, **exploring nature**, and **learning languages**.
