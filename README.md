@@ -6,7 +6,7 @@
 - 🎨 [**pyansistring**](https://github.com/l1asis/pyansistring) – A Python library for styling terminal strings with colors and formatting.
 - 🌇 [**winspot**](https://github.com/l1asis/winspot) – A CLI utility to export and reset Windows Spotlight images. 
 - 🔐 [**vault-tar**](https://github.com/l1asis/vault-tar) – A CLI tool for AES-256-GCM file and directory encryption and decryption, inspired by the Unix `tar` command.
-- 📟 [**rsa-educational-messenger**](https://github.com/l1asis/rsa-educational-messenger) – A messaging app demonstrating RSA encryption mechanics for educational purposes.
+- 📟 [**rsa-messenger**](https://github.com/l1asis/rsa-messenger) – A messaging app demonstrating RSA encryption mechanics.
 - 🚧 ... and working on porting more projects to public!
 
 ### 🏆 Progress Badges
